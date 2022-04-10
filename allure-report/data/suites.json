@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Women Check Out functionality for Automation practice",
+    "children" : [ {
+      "name" : "Check Out Happy path",
+      "uid" : "efac45a233b06167",
+      "parentUid" : "084f83792d88ea2c226f0f6da196df68",
+      "status" : "broken",
+      "time" : {
+        "start" : 1648790809570,
+        "stop" : 1648790824648,
+        "duration" : 15078
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "084f83792d88ea2c226f0f6da196df68"
+  }, {
+    "name" : "Login functionality",
+    "children" : [ {
+      "name" : "",
+      "uid" : "51114471bf1033e1",
+      "parentUid" : "1d724e2421c677a0c20c8dd75b400c49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649306345402,
+        "stop" : 1649306358460,
+        "duration" : 13058
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 48,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "",
+      "uid" : "c152f152774ade14",
+      "parentUid" : "1d724e2421c677a0c20c8dd75b400c49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649306550047,
+        "stop" : 1649306580452,
+        "duration" : 30405
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1d724e2421c677a0c20c8dd75b400c49"
+  } ]
+}

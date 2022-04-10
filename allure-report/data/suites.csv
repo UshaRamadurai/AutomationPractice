@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 07 10:12:30 IST 2022","Thu Apr 07 10:13:00 IST 2022","30405","","Login functionality","","","","",""
+"broken","Fri Apr 01 10:56:49 IST 2022","Fri Apr 01 10:57:04 IST 2022","15078","","Women Check Out functionality for Automation practice","","Check Out Happy path","","Check Out Happy path",""
+"passed","Thu Apr 07 10:09:05 IST 2022","Thu Apr 07 10:09:18 IST 2022","13058","","Login functionality","","","","",""

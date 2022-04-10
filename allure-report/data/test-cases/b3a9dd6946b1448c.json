@@ -1,0 +1,179 @@
+{
+  "uid" : "b3a9dd6946b1448c",
+  "name" : "",
+  "fullName" : "Login functionality: ",
+  "historyId" : "d27183207020423fc857b5195649b4ee",
+  "time" : {
+    "start" : 1648756061679,
+    "stop" : 1648756081757,
+    "duration" : 20078
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "org.AutomationPractice.stepDefinition.CommonSteps.beforeScenario()",
+    "time" : {
+      "start" : 1648756061682,
+      "stop" : 1648756064108,
+      "duration" : 2426
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  User in home page",
+      "time" : {
+        "start" : 1648756064114,
+        "stop" : 1648756073592,
+        "duration" : 9478
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Enter the emailID",
+      "time" : {
+        "start" : 1648756073593,
+        "stop" : 1648756073679,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Enter the password",
+      "time" : {
+        "start" : 1648756073680,
+        "stop" : 1648756073731,
+        "duration" : 51
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Sign In button",
+      "time" : {
+        "start" : 1648756073731,
+        "stop" : 1648756081661,
+        "duration" : 7930
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  My Store page should be displayed",
+      "time" : {
+        "start" : 1648756081662,
+        "stop" : 1648756081666,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "org.AutomationPractice.stepDefinition.CommonSteps.afterScenario()",
+    "time" : {
+      "start" : 1648756081666,
+      "stop" : 1648756081756,
+      "duration" : 90
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "admins-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "7731@admins-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Login functionality"
+  }, {
+    "name" : "story",
+    "value" : ""
+  }, {
+    "name" : "suite",
+    "value" : "Login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///Users/admin/IdeaProjects/SpreeExtentReport/automationPractice/src/test/java/org/AutomationPractice/features/Login.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.org.AutomationPractice.features.Login_feature.Login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3a9dd6946b1448c.json",
+  "parameterValues" : [ ]
+}

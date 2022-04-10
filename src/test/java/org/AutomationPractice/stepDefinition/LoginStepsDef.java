@@ -10,16 +10,22 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.AutomationPractice.webdriverManager.DriverManager;
 
+import java.io.IOException;
+
 import static org.AutomationPractice.webdriverManager.DriverManager.driver;
 
-public class LoginStepsDef {
+public class LoginStepsDef extends Instantiation{
 
     private static final Logger LOGGER = LogManager.getLogger(LoginStepsDef.class);
-    SignInPage signinPage = new SignInPage(driver);
 
     @Given("User in home page")
     public void user_in_home_page() {
         DriverManager.getDriver().get(CommonUtils.prop.getProperty("APP_URL"));
+        try {
+            CommonUtils.takeScreenshot();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     @Given("Enter the emailID")
@@ -42,6 +48,12 @@ public class LoginStepsDef {
         String url = DriverManager.getDriver().getCurrentUrl();
         if(url.contains("my-account")){
             LOGGER.info("Successfully logged in");
+
+            try {
+                CommonUtils.takeScreenshot();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
     }
 }

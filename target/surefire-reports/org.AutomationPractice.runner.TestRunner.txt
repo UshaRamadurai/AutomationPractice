@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.AutomationPractice.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 51.716 s - in org.AutomationPractice.runner.TestRunner

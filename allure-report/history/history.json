@@ -1,0 +1,60 @@
+{
+  "d27183207020423fc857b5195649b4ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51114471bf1033e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649306345402,
+        "stop" : 1649306358460,
+        "duration" : 13058
+      }
+    } ]
+  },
+  "2928fbac5ca1df51cf812ce23a70e3c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efac45a233b06167",
+      "status" : "broken",
+      "statusDetails" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'admins-MBP.domain.name', ip: 'fe80:0:0:0:12:6892:dfaf:cf27%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '16.0.1'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1648790809570,
+        "stop" : 1648790824648,
+        "duration" : 15078
+      }
+    } ]
+  },
+  "4b703af80c31ce51b7d0902008f28f1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c152f152774ade14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649306550047,
+        "stop" : 1649306580452,
+        "duration" : 30405
+      }
+    } ]
+  }
+}

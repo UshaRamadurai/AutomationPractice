@@ -1,0 +1,31 @@
+[ {
+  "uid" : "efac45a233b06167",
+  "name" : "Check Out Happy path",
+  "time" : {
+    "start" : 1648790809570,
+    "stop" : 1648790824648,
+    "duration" : 15078
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "51114471bf1033e1",
+  "name" : "",
+  "time" : {
+    "start" : 1649306345402,
+    "stop" : 1649306358460,
+    "duration" : 13058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c152f152774ade14",
+  "name" : "",
+  "time" : {
+    "start" : 1649306550047,
+    "stop" : 1649306580452,
+    "duration" : 30405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

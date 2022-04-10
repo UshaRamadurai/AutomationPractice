@@ -1,43 +1,19 @@
-2022-04-01 00:48:42,973 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 00:48:42,982 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 00:48:42,982 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 00:48:44,900 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
-2022-04-01 00:48:55,551 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
-2022-04-01 01:02:03,447 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:02:03,449 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:02:03,449 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:02:03,716 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
-2022-04-01 01:02:17,863 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
-2022-04-01 01:03:35,729 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:03:35,731 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:03:35,731 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:03:36,003 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
-2022-04-01 01:03:48,254 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
-2022-04-01 01:08:14,527 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:09:37,947 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:09:37,949 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:09:37,949 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:09:38,227 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
-2022-04-01 01:14:18,886 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:14:18,888 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:14:18,888 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:14:19,239 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
-2022-04-01 01:14:29,691 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
-2022-04-01 01:17:41,926 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:17:41,927 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:17:41,928 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:17:42,195 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
-2022-04-01 01:18:01,665 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
-2022-04-01 01:18:06,822 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:18:06,822 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:18:06,822 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:18:06,827 [INFO ] org.AutomationPractice.stepDefinition.WomenCheckOut [main] Logged in Successfully
-2022-04-01 01:20:32,653 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:20:32,655 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:20:32,655 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:20:32,920 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
-2022-04-01 01:20:46,647 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
-2022-04-01 01:20:51,708 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
-2022-04-01 01:20:51,708 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
-2022-04-01 01:20:51,708 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
-2022-04-01 01:20:51,713 [INFO ] org.AutomationPractice.stepDefinition.WomenCheckOut [main] Logged in Successfully
+2022-04-07 10:09:05,714 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
+2022-04-07 10:09:05,734 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
+2022-04-07 10:09:05,734 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
+2022-04-07 10:09:07,333 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
+2022-04-07 10:09:18,017 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
+2022-04-07 10:12:30,304 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
+2022-04-07 10:12:30,306 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
+2022-04-07 10:12:30,307 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
+2022-04-07 10:12:30,596 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
+2022-04-07 10:13:00,083 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
+2022-04-07 10:19:41,587 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
+2022-04-07 10:19:41,589 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
+2022-04-07 10:19:41,589 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
+2022-04-07 10:19:41,863 [INFO ] org.AutomationPractice.webdriverManager.DriverManager [main] Launching Browser
+2022-04-07 10:19:54,201 [INFO ] org.AutomationPractice.stepDefinition.LoginStepsDef [main] Successfully logged in
+2022-04-07 10:19:59,691 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Execution Started
+2022-04-07 10:19:59,692 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Started CommonUtils
+2022-04-07 10:19:59,692 [INFO ] org.AutomationPractice.stepDefinition.CommonSteps [main] Checking Driver is null
+2022-04-07 10:19:59,693 [INFO ] org.AutomationPractice.stepDefinition.WomenCheckOutDef [main] Logged in Successfully

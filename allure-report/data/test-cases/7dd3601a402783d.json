@@ -1,0 +1,314 @@
+{
+  "uid" : "7dd3601a402783d",
+  "name" : "Check Out Happy path",
+  "fullName" : "Women Check Out functionality for Automation practice: Check Out Happy path",
+  "historyId" : "2928fbac5ca1df51cf812ce23a70e3c0",
+  "time" : {
+    "start" : 1648665722364,
+    "stop" : 1648665768909,
+    "duration" : 46545
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "org.AutomationPractice.stepDefinition.CommonSteps.beforeScenario()",
+    "time" : {
+      "start" : 1648665722364,
+      "stop" : 1648665722365,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  The user is logged in successfully and is on Home Page",
+      "time" : {
+        "start" : 1648665722365,
+        "stop" : 1648665722369,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Hover on the Women Tab",
+      "time" : {
+        "start" : 1648665722369,
+        "stop" : 1648665722503,
+        "duration" : 134
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Casual Dresses",
+      "time" : {
+        "start" : 1648665722503,
+        "stop" : 1648665727995,
+        "duration" : 5492
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Hover on the Product Image",
+      "time" : {
+        "start" : 1648665727996,
+        "stop" : 1648665728130,
+        "duration" : 134
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Add to Cart button",
+      "time" : {
+        "start" : 1648665728130,
+        "stop" : 1648665728171,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Proceed to checkout button",
+      "time" : {
+        "start" : 1648665728171,
+        "stop" : 1648665733423,
+        "duration" : 5252
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  Order page should be displayed",
+      "time" : {
+        "start" : 1648665733423,
+        "stop" : 1648665733423,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Summary Proceed to checkout button",
+      "time" : {
+        "start" : 1648665733424,
+        "stop" : 1648665735553,
+        "duration" : 2129
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Address Proceed to checkout button",
+      "time" : {
+        "start" : 1648665735553,
+        "stop" : 1648665743069,
+        "duration" : 7516
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Agree check box button",
+      "time" : {
+        "start" : 1648665743069,
+        "stop" : 1648665743107,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Shipping Proceed to checkout button",
+      "time" : {
+        "start" : 1648665743107,
+        "stop" : 1648665754934,
+        "duration" : 11827
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Pay by bank wire button",
+      "time" : {
+        "start" : 1648665754935,
+        "stop" : 1648665757390,
+        "duration" : 2455
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  My Store page should be displayed",
+      "time" : {
+        "start" : 1648665757391,
+        "stop" : 1648665757394,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on I confirm my order button",
+      "time" : {
+        "start" : 1648665757394,
+        "stop" : 1648665768891,
+        "duration" : 11497
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  ORDER CONFIRMATION is displayed",
+      "time" : {
+        "start" : 1648665768891,
+        "stop" : 1648665768909,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 15,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "admins-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "5151@admins-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Women Check Out functionality for Automation practice"
+  }, {
+    "name" : "story",
+    "value" : "Check Out Happy path"
+  }, {
+    "name" : "suite",
+    "value" : "Women Check Out functionality for Automation practice"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Out Happy path"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///Users/admin/IdeaProjects/SpreeExtentReport/automationPractice/src/test/java/org/AutomationPractice/features/WomenCheckOutTest.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.org.AutomationPractice.features.WomenCheckOutTest_feature.Women Check Out functionality for Automation practice"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7dd3601a402783d.json",
+  "parameterValues" : [ ]
+}

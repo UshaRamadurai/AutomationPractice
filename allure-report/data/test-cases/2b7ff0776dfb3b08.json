@@ -1,0 +1,164 @@
+{
+  "uid" : "2b7ff0776dfb3b08",
+  "name" : "",
+  "fullName" : "Login functionality: ",
+  "historyId" : "d27183207020423fc857b5195649b4ee",
+  "time" : {
+    "start" : 1649181755394,
+    "stop" : 1649181768194,
+    "duration" : 12800
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "org.AutomationPractice.stepDefinition.CommonSteps.beforeScenario()",
+    "time" : {
+      "start" : 1649181755397,
+      "stop" : 1649181757208,
+      "duration" : 1811
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  User in home page",
+      "time" : {
+        "start" : 1649181757216,
+        "stop" : 1649181764068,
+        "duration" : 6852
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Enter the emailID",
+      "time" : {
+        "start" : 1649181764068,
+        "stop" : 1649181764155,
+        "duration" : 87
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Enter the password",
+      "time" : {
+        "start" : 1649181764155,
+        "stop" : 1649181764207,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Sign In button",
+      "time" : {
+        "start" : 1649181764208,
+        "stop" : 1649181767835,
+        "duration" : 3627
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  My Store page should be displayed",
+      "time" : {
+        "start" : 1649181767836,
+        "stop" : 1649181768193,
+        "duration" : 357
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "admins-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4486@admins-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Login functionality"
+  }, {
+    "name" : "story",
+    "value" : ""
+  }, {
+    "name" : "suite",
+    "value" : "Login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///Users/admin/IdeaProjects/SpreeExtentReport/automationPractice/src/test/java/org/AutomationPractice/features/Login.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.org.AutomationPractice.features.Login_feature.Login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b7ff0776dfb3b08.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "src.test.java.org.AutomationPractice.features",
+    "children" : [ {
+      "name" : "WomenCheckOutTest_feature.Women Check Out functionality for Automation practice",
+      "children" : [ {
+        "name" : "Check Out Happy path",
+        "uid" : "efac45a233b06167",
+        "parentUid" : "fd84756a49a330557a6f9d60a5394e68",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648790809570,
+          "stop" : 1648790824648,
+          "duration" : 15078
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "WomenCheckOutTest_feature.Women Check Out functionality for Automation practice"
+    }, {
+      "name" : "Login_feature.Login functionality",
+      "children" : [ {
+        "name" : "",
+        "uid" : "51114471bf1033e1",
+        "parentUid" : "de8f755059213d275669a0d93005a2c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649306345402,
+          "stop" : 1649306358460,
+          "duration" : 13058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 48,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "",
+        "uid" : "c152f152774ade14",
+        "parentUid" : "de8f755059213d275669a0d93005a2c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649306550047,
+          "stop" : 1649306580452,
+          "duration" : 30405
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "Login_feature.Login functionality"
+    } ],
+    "uid" : "src.test.java.org.AutomationPractice.features"
+  } ]
+}

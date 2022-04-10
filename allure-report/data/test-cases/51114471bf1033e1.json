@@ -1,0 +1,579 @@
+{
+  "uid" : "51114471bf1033e1",
+  "name" : "",
+  "fullName" : "Login functionality: ",
+  "historyId" : "d27183207020423fc857b5195649b4ee",
+  "time" : {
+    "start" : 1649306345402,
+    "stop" : 1649306358460,
+    "duration" : 13058
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 48,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "org.AutomationPractice.stepDefinition.CommonSteps.beforeScenario()",
+    "time" : {
+      "start" : 1649306345405,
+      "stop" : 1649306349088,
+      "duration" : 3683
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  User in home page",
+      "time" : {
+        "start" : 1649306349102,
+        "stop" : 1649306355198,
+        "duration" : 6096
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Enter the emailID",
+      "time" : {
+        "start" : 1649306355198,
+        "stop" : 1649306355300,
+        "duration" : 102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Enter the password",
+      "time" : {
+        "start" : 1649306355300,
+        "stop" : 1649306355362,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on Sign In button",
+      "time" : {
+        "start" : 1649306355363,
+        "stop" : 1649306358012,
+        "duration" : 2649
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  My Store page should be displayed",
+      "time" : {
+        "start" : 1649306358012,
+        "stop" : 1649306358457,
+        "duration" : 445
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "admins-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "910@admins-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Login functionality"
+  }, {
+    "name" : "story",
+    "value" : ""
+  }, {
+    "name" : "suite",
+    "value" : "Login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///Users/admin/IdeaProjects/SpreeExtentReport/automationPractice/src/test/java/org/AutomationPractice/features/Login.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.org.AutomationPractice.features.Login_feature.Login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8bf276ca1ac5fc84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649183257273,
+        "stop" : 1649183267715,
+        "duration" : 10442
+      }
+    }, {
+      "uid" : "4a55f15da0a101f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649182476963,
+        "stop" : 1649182498633,
+        "duration" : 21670
+      }
+    }, {
+      "uid" : "2b7ff0776dfb3b08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649181755394,
+        "stop" : 1649181768194,
+        "duration" : 12800
+      }
+    }, {
+      "uid" : "479070247877567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649181694480,
+        "stop" : 1649181707584,
+        "duration" : 13104
+      }
+    }, {
+      "uid" : "ea4840b276ee23e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649181659019,
+        "stop" : 1649181671748,
+        "duration" : 12729
+      }
+    }, {
+      "uid" : "c3adf90c75364ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649181574554,
+        "stop" : 1649181601419,
+        "duration" : 26865
+      }
+    }, {
+      "uid" : "acd954f02dfbf4f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649180146120,
+        "stop" : 1649180164054,
+        "duration" : 17934
+      }
+    }, {
+      "uid" : "fc22458832cb79c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648996139278,
+        "stop" : 1648996163145,
+        "duration" : 23867
+      }
+    }, {
+      "uid" : "513f934c64fa0445",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#email\"}\n  (Session info: chrome=100.0.4896.60)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'admins-MBP.domain.name', ip: 'fe80:0:0:0:12:6892:dfaf:cf27%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '16.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/9h/3f03r251717...}, goog:chromeOptions: {debuggerAddress: localhost:49916}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6f7e87156ae01fde146660ba5b4975dd\n*** Element info: {Using=id, value=email}",
+      "time" : {
+        "start" : 1648790653838,
+        "stop" : 1648790809503,
+        "duration" : 155665
+      }
+    }, {
+      "uid" : "91c4b6e4e3162827",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648790551424,
+        "stop" : 1648790602849,
+        "duration" : 51425
+      }
+    }, {
+      "uid" : "39097a7153a2805",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648789832688,
+        "stop" : 1648789851356,
+        "duration" : 18668
+      }
+    }, {
+      "uid" : "c1954b0c0c445501",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648756232394,
+        "stop" : 1648756246649,
+        "duration" : 14255
+      }
+    }, {
+      "uid" : "b3a9dd6946b1448c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648756061679,
+        "stop" : 1648756081757,
+        "duration" : 20078
+      }
+    }, {
+      "uid" : "ac7a6e3fe83f5607",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648755858589,
+        "stop" : 1648755869783,
+        "duration" : 11194
+      }
+    }, {
+      "uid" : "80516185da27dcca",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=100.0.4896.60)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'admins-MacBook-Pro.local', ip: 'fe80:0:0:0:40d:63f7:f841:cb0f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '16.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/9h/3f03r251717...}, goog:chromeOptions: {debuggerAddress: localhost:53345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7f5a5573d93588d240dee39527aa4f17\n*** Element info: {Using=id, value=email}",
+      "time" : {
+        "start" : 1648755577701,
+        "stop" : 1648755583451,
+        "duration" : 5750
+      }
+    }, {
+      "uid" : "fc6f4c57218247eb",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.ExceptionInInitializerError",
+      "time" : {
+        "start" : 1648755494285,
+        "stop" : 1648755494552,
+        "duration" : 267
+      }
+    }, {
+      "uid" : "f079e71180512fa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648755215475,
+        "stop" : 1648755228343,
+        "duration" : 12868
+      }
+    }, {
+      "uid" : "fcf86a58306e6ad0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648755123198,
+        "stop" : 1648755137956,
+        "duration" : 14758
+      }
+    }, {
+      "uid" : "3df00d0eeeb0d150",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648754322725,
+        "stop" : 1648754335641,
+        "duration" : 12916
+      }
+    }, {
+      "uid" : "16c56b82c90b5a87",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.get(String)\" because the return value of \"org.AutomationPractice.webdriverManager.DriverManager.getDriver()\" is null",
+      "time" : {
+        "start" : 1648754150147,
+        "stop" : 1648754150420,
+        "duration" : 273
+      }
+    }, {
+      "uid" : "2862be572874494d",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.get(String)\" because the return value of \"org.AutomationPractice.webdriverManager.DriverManager.getDriver()\" is null",
+      "time" : {
+        "start" : 1648753322608,
+        "stop" : 1648753322882,
+        "duration" : 274
+      }
+    }, {
+      "uid" : "35fbaf3c6ae2148a",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.get(String)\" because the return value of \"org.AutomationPractice.webdriverManager.DriverManager.getDriver()\" is null",
+      "time" : {
+        "start" : 1648753250779,
+        "stop" : 1648753251044,
+        "duration" : 265
+      }
+    }, {
+      "uid" : "c2b1b17c3e85007a",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.get(String)\" because the return value of \"org.AutomationPractice.webdriverManager.DriverManager.getDriver()\" is null",
+      "time" : {
+        "start" : 1648753174742,
+        "stop" : 1648753175013,
+        "duration" : 271
+      }
+    }, {
+      "uid" : "3b6043ec945eb516",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648753088661,
+        "stop" : 1648753088938,
+        "duration" : 277
+      }
+    }, {
+      "uid" : "df992086f7691ff5",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648752940531,
+        "stop" : 1648752940810,
+        "duration" : 279
+      }
+    }, {
+      "uid" : "11d0a37228ad755d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.ExceptionInInitializerError",
+      "time" : {
+        "start" : 1648752797455,
+        "stop" : 1648752797729,
+        "duration" : 274
+      }
+    }, {
+      "uid" : "7001677c8cbbeb92",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648752480632,
+        "stop" : 1648752480902,
+        "duration" : 270
+      }
+    }, {
+      "uid" : "20f88402a8476445",
+      "status" : "broken",
+      "statusDetails" : "java.lang.ExceptionInInitializerError",
+      "time" : {
+        "start" : 1648752256827,
+        "stop" : 1648752257105,
+        "duration" : 278
+      }
+    }, {
+      "uid" : "3682916cf30fc1ce",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648752102064,
+        "stop" : 1648752102331,
+        "duration" : 267
+      }
+    }, {
+      "uid" : "9027ac1176af2a36",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648751934609,
+        "stop" : 1648751934879,
+        "duration" : 270
+      }
+    }, {
+      "uid" : "e4551a5a85b9f85",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648751482128,
+        "stop" : 1648751482400,
+        "duration" : 272
+      }
+    }, {
+      "uid" : "9c69fa75c173a3a",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648751383877,
+        "stop" : 1648751384156,
+        "duration" : 279
+      }
+    }, {
+      "uid" : "d47d118c44f79621",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648751130525,
+        "stop" : 1648751130798,
+        "duration" : 273
+      }
+    }, {
+      "uid" : "efea2e1f18628a52",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648750660708,
+        "stop" : 1648750660989,
+        "duration" : 281
+      }
+    }, {
+      "uid" : "2cae933a8ee64689",
+      "status" : "broken",
+      "statusDetails" : "java.lang.ExceptionInInitializerError",
+      "time" : {
+        "start" : 1648750065296,
+        "stop" : 1648750065574,
+        "duration" : 278
+      }
+    }, {
+      "uid" : "4763764217ab2295",
+      "status" : "broken",
+      "statusDetails" : "java.lang.ExceptionInInitializerError",
+      "time" : {
+        "start" : 1648749998763,
+        "stop" : 1648749999033,
+        "duration" : 270
+      }
+    }, {
+      "uid" : "ec001625de068283",
+      "status" : "broken",
+      "statusDetails" : "java.lang.ExceptionInInitializerError",
+      "time" : {
+        "start" : 1648749909013,
+        "stop" : 1648749909296,
+        "duration" : 283
+      }
+    }, {
+      "uid" : "4daa714a4c19ed77",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648749066812,
+        "stop" : 1648749067090,
+        "duration" : 278
+      }
+    }, {
+      "uid" : "f346d94fa6ecb481",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648748932305,
+        "stop" : 1648748932598,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "b3df2967b44b033e",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648669563737,
+        "stop" : 1648669564014,
+        "duration" : 277
+      }
+    }, {
+      "uid" : "87e1e22eaa2c9c8",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648669425879,
+        "stop" : 1648669426152,
+        "duration" : 273
+      }
+    }, {
+      "uid" : "972d144e19ee9ea7",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648668627693,
+        "stop" : 1648668627975,
+        "duration" : 282
+      }
+    }, {
+      "uid" : "b9ff83e2cd6c9f8a",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.Utilities.CommonUtils.prop\" is null",
+      "time" : {
+        "start" : 1648668397039,
+        "stop" : 1648668397330,
+        "duration" : 291
+      }
+    }, {
+      "uid" : "a8f813ee1ff3669b",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"java.util.Properties.getProperty(String)\" because \"org.AutomationPractice.stepDefinition.LoginStepsDef.prop\" is null",
+      "time" : {
+        "start" : 1648668337920,
+        "stop" : 1648668338200,
+        "duration" : 280
+      }
+    }, {
+      "uid" : "54daae7d262f9d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648667423357,
+        "stop" : 1648667449520,
+        "duration" : 26163
+      }
+    }, {
+      "uid" : "92b31ec70ef4ee76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648665624307,
+        "stop" : 1648665717303,
+        "duration" : 92996
+      }
+    }, {
+      "uid" : "dcf36a51a9869905",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648664615255,
+        "stop" : 1648664645377,
+        "duration" : 30122
+      }
+    }, {
+      "uid" : "3017f1bf1e6aa96d",
+      "status" : "broken",
+      "statusDetails" : "disconnected: Unable to receive message from renderer\n  (Session info: chrome=100.0.4896.60)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'admins-MacBook-Pro.local', ip: 'fe80:0:0:0:40d:63f7:f841:cb0f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '16.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/9h/3f03r251717...}, goog:chromeOptions: {debuggerAddress: localhost:51099}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6a800fc1e20656c01ae0c19884870197",
+      "time" : {
+        "start" : 1648664065356,
+        "stop" : 1648664229274,
+        "duration" : 163918
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51114471bf1033e1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'admins-MBP.domain.name', ip: 'fe80:0:0:0:12:6892:dfaf:cf27%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '16.0.1'\nDriver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "Check Out Happy path",
+        "uid" : "efac45a233b06167",
+        "parentUid" : "74c93962fdaa474edfef8d1eecd1690d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648790809570,
+          "stop" : 1648790824648,
+          "duration" : 15078
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74c93962fdaa474edfef8d1eecd1690d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

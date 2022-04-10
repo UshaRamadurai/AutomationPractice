@@ -1,5 +1,6 @@
 Feature: Login functionality
 
+  @Login
   Scenario:
     Given User in home page
     Given Enter the emailID

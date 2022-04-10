@@ -1,0 +1,72 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Women Check Out functionality for Automation practice",
+    "children" : [ {
+      "name" : "Check Out Happy path",
+      "children" : [ {
+        "name" : "Check Out Happy path",
+        "uid" : "efac45a233b06167",
+        "parentUid" : "0c5cb0425120a977cd02ca337bc7f277",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648790809570,
+          "stop" : 1648790824648,
+          "duration" : 15078
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c5cb0425120a977cd02ca337bc7f277"
+    } ],
+    "uid" : "f54daf005f9ad661196fee091a945224"
+  }, {
+    "name" : "Login functionality",
+    "children" : [ {
+      "name" : "",
+      "children" : [ {
+        "name" : "",
+        "uid" : "51114471bf1033e1",
+        "parentUid" : "dc5cca2a05f6d73c412fb62a6e94f3aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649306345402,
+          "stop" : 1649306358460,
+          "duration" : 13058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 48,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "",
+        "uid" : "c152f152774ade14",
+        "parentUid" : "dc5cca2a05f6d73c412fb62a6e94f3aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649306550047,
+          "stop" : 1649306580452,
+          "duration" : 30405
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dc5cca2a05f6d73c412fb62a6e94f3aa"
+    } ],
+    "uid" : "188357eda975c95318be33c4a6155bd8"
+  } ]
+}
